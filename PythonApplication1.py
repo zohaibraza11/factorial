@@ -3,3 +3,4 @@ f=1
 for i in range(a,1,-1):
         f=f*i
 print("Factorial is:",f)
+print("Factorial code is ended")
